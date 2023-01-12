@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Veteran Presency</string>
+    <string name="lupa_password">
+        <a href="https://akademik.upnvj.ac.id/">Forgot Password?</a>
+    </string>
+    <string-array name="status_array">
+        <item>Hadir</item>
+        <item>Telat Hadir</item>
+        <item>Tidak Hadir</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
